@@ -10,5 +10,11 @@
     "ivo"
   ],
   "author": "ivo biocic",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
