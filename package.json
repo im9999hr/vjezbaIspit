@@ -1,0 +1,14 @@
+{
+  "name": "vjezba",
+  "version": "1.0.0",
+  "description": "vjezba za ispit",
+  "main": "index.js",
+  "scripts": {
+    "test": "iii"
+  },
+  "keywords": [
+    "ivo"
+  ],
+  "author": "ivo biocic",
+  "license": "ISC"
+}
